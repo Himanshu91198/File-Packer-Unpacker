@@ -9,7 +9,7 @@ class Packer {
 
         Scanner sobj = new Scanner(System.in);
 
-        System.out.println("------------------Marvellous Packer Unpacker-------------------- ");
+        System.out.println("------------------Packer Unpacker-------------------- ");
         System.out.println("Packing Activity of the application is started");
         System.out.println("Enter the name of folder which contains the files that you want to pack");
         String FolderName = sobj.nextLine();
