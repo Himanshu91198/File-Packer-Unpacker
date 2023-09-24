@@ -11,7 +11,7 @@ class Unpacker {
         String Tokens[];
         int iCount = 0;
 
-        System.out.println("------------------Marvellous Packer Unpacker-------------------- ");
+        System.out.println("------------------Packer Unpacker-------------------- ");
         System.out.println("UnPacking Activity of the application is started");
 
         System.out.println("Enter the file name which contains the packed data : ");
